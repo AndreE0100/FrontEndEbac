@@ -1,0 +1,31 @@
+h1{
+    color:rgb(235, 212, 201);
+    text-align: left;
+    font-size:100px;
+    font-family: 'Beau Rivage',cursive;
+    padding-top: 0px;
+}
+
+h2{
+    font-size: 40px;;
+    color:rgb(75, 31, 10);
+    text-align: center;
+    
+}
+
+h3{
+    color:rgb(75, 31, 10);
+    text-align: center;
+    
+}
+
+p{
+    color:rgb(75, 31, 10);
+    text-align:center;
+}
+
+a{
+    color:rgb(75, 31, 10);
+    text-align: center;
+    
+}

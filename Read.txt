@@ -1,0 +1,11 @@
+RESET:
+<link rel="stylesheet" type="text/css" href="./css/reset.css">
+
+1-Home : irá conter as infos da empresa #QuemSomos
+
+
+2-NossosProdutos : Os tipos de café: Arábica{Icatu,Bourbon,Catuai,MundoNovo}
+-Imagens com descrição
+-Tabela com valores 
+
+3-Contatos: Convite a conhecer os produtos e contatos

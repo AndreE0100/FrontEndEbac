@@ -1,0 +1,80 @@
+*{
+    margin:0;
+    padding:0;
+    list-style: none;
+}
+
+#geral{
+    width:100%;
+    margin:0px auto;
+}
+
+#geral #topo{
+    width:100%;
+    height:130px;
+    background: #700;
+    background-image: url(../images/topo01.jpg);
+    background-repeat:no-repeat;
+    background-size: 100%;
+    
+}
+
+
+#geral #conteudoHome{
+    width:100%;
+    height:700px;
+    background: rgba(224, 155, 123,0.3);
+    
+    float:right;
+
+}
+
+#geral #conteudoProduto{
+    width:100%;
+    height:650px;
+    background: rgba(224, 155, 123,0.3);
+    
+    float:right;
+
+}
+
+#geral #conteudoContato{
+    width:100%;
+    height:650px;
+    background: rgba(224, 155, 123,0.3);
+    background-image: url(../images/convite03.jpg);
+    
+    float:right;
+
+}
+
+@media(min-width:372){
+    body{
+        background-color: rgb(197, 8, 8);
+    }
+}
+
+@media(max-width: 1330px){
+    .topo{
+        width:30vw;
+    }
+    .conteudoHome{
+        width:70vw;
+        min-width:unset;
+    }
+}
+
+@media(max-width:1330px){
+    .topo,
+    .conteudoHome{
+        width:100%;
+        min-width: 372px;
+    }
+}
+
+/*
+geral
+topo
+menu
+conteudo
+*/
